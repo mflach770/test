@@ -12,7 +12,7 @@
 	<atom:link href="https://ruthflach.de/author/rflach/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ruthflach.de</link>
 	<description>Ruth Flach</description>
-	<lastBuildDate>Wed, 03 Mar 2021 15:26:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Mar 2021 15:53:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title></title>
+		<title>Nützliche Impulse für schwierige Elterngespräche</title>
 		<link>https://ruthflach.de/271975-2/</link>
 					<comments>https://ruthflach.de/271975-2/#respond</comments>
 		
@@ -38,7 +38,8 @@
 		<guid isPermaLink="false">https://ruthflach.de/?p=271975</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
+										<content:encoded><![CDATA[
+<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
 				
 				
 				
@@ -165,7 +166,7 @@
 			</div> <!-- .et_pb_row -->
 				
 				
-			</div> <!-- .et_pb_section --></p>
+			</div> <!-- .et_pb_section -->
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ruthflach.de/271975-2/feed/</wfw:commentRss>

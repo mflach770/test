@@ -11,11 +11,11 @@
 	<atom:link href="https://ruthflach.de/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ruthflach.de</link>
 	<description>Ruth Flach</description>
-	<lastBuildDate>Sun, 17 Jan 2021 11:14:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Mar 2021 15:26:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 </channel>
 </rss>
